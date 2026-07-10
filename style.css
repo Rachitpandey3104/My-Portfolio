@@ -1,0 +1,97 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+}
+
+/* Header Section */
+header {
+    background: #333;
+    color: #fff;
+    padding: 2rem;
+    text-align: center;
+    border-radius: 8px;
+}
+
+/* Sections */
+section {
+    background: #fff;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+h2 {
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+/* Skills List */
+ul {
+    list-style: none;
+}
+
+ul li {
+    background: #eee;
+    margin: 5px 0;
+    padding: 10px;
+    border-left: 5px solid #007bff;
+}/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+}
+
+/* Header Section */
+header {
+    background: #333;
+    color: #fff;
+    padding: 2rem;
+    text-align: center;
+    border-radius: 8px;
+}
+
+/* Sections */
+section {
+    background: #fff;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+h2 {
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+/* Skills List */
+ul {
+    list-style: none;
+}
+
+ul li {
+    background: #eee;
+    margin: 5px 0;
+    padding: 10px;
+    border-left: 5px solid #007bff;
+}
